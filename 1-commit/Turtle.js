@@ -1,3 +1,3 @@
 function turtle(){
-	console.log('oldes animal')
+	console.log('the oldest animal')
 }
